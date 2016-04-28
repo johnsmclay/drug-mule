@@ -1,6 +1,7 @@
 # drug-mule
 FTP/SFTP/SCP/Etc. Daemon for pushing/pulling files on a schedule.
 
+![Logo](assets/mule.png)
 ## System Information
 ### Command Framework
 The entire system is built around different "commands" that function much like the views from an MVC framework.
